@@ -1,6 +1,5 @@
 # Reshab Poudel - Personal Portfolio
 
-![Portfolio Screenshot](https://i.imgur.com/sample-screenshot.png)
 
 A modern, interactive personal portfolio website for Reshab Poudel, showcasing skills, projects, and contact information with a sleek glassmorphism design.
 
